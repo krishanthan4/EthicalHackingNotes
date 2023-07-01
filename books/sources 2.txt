@@ -1,0 +1,57 @@
+
+Resources for learning:
+
+Networking - https://lnkd.in/gNm8RhtS
+
+More Networking - https://lnkd.in/ghqw2sHZ
+
+Even More Networking - https://lnkd.in/g4fp8WFa
+
+Linux - https://lnkd.in/g7KJBUYd
+
+More Linux - https://lnkd.in/gUK8PU4p
+
+Windows Server - https://lnkd.in/gWUTmN-5
+
+More Windows Server- https://lnkd.in/gsWZQnwj
+
+Python - https://lnkd.in/g_NpsqEM
+
+Golang - https://lnkd.in/gmwz4ed5
+
+Huge list of computer science resources (This one is great! Some links might not work, but I'm sure you can find them by doing a quick search) - https://lnkd.in/gQvxbypj
+
+Databases - https://lnkd.in/gWQmYwib
+
+CompTIA Security+ - https://lnkd.in/gyFy_CG9
+
+CISSP - https://lnkd.in/gUFjihpJ
+
+Penetration testing - https://lnkd.in/gAdgyY6h
+
+Web application testing - https://lnkd.in/g5FkXWej
+
+Weekly HackTheBox series and other hacking videos - https://lnkd.in/gztivT-D
+
+Resources for practicing what you learned:
+
+Network simulation software
+https://lnkd.in/gRMak7_x
+
+Virtualization software
+https://lnkd.in/gFkyFVvF
+
+Linux operating systems
+https://lnkd.in/g2M__A5n
+https://lnkd.in/gyc4R_F7
+https://lnkd.in/gSiHYRNg
+https://lnkd.in/g5GsUT7H
+
+Microsoft Operating Systems
+https://lnkd.in/gP3nxKpZ
+
+Capture the flag
+https://lnkd.in/gpnYs5Qj
+https://www.vulnhub.com/
+https://lnkd.in/gn2AEYhw
+https://lnkd.in/g5FkXWej
