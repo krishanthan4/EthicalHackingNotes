@@ -57,5 +57,30 @@ eg:- he's got a chip on shoulder
 - don't dabble with my phone 👉 මගෙ phone එක අතපත ගාන්න එපා.
 - i made the move 👉  මම ඒ තීරණය ගත්තා.
 - time flies 👉 කාලය යනවා ඉක්මනින්.
+- under the auspices of   👉  ආරක්ශාව යටතේ / අනුග්‍රහය යටතේ / සහාය යටතේ.
+eg:- we learn English under the auspices of mister Kanchana
+- I think chamini fancy you 👉 මම හිතන්නෙ chamini ඔයාට කැමති.
+- I don't fancy with this 👉 
+- i fancy you 👉මම ඔයාට  කැමති.
+- you fancy her ?right.
+- he fancy's himself 👉 ඌ ඌ ගැන ලොකුවට හිතන් ඉන්නෙ .
+- fancy that 👉 පුදුමයි
+- hey ,fancy meeting you here 👉 hey පුදුමයි ඔයාව මෙතන හමුවීම.
+- there is nothing tickle my fancy 👉 එතන මම කැමති දෙයක් නෑ.
 
+![[Pasted image 20230530211841.png]]  
+
+![[Pasted image 20230530212523.png]]  
+
+
+- he is a bright spark 👉 ඔහු දක්ශයෙක් බුද්ධිමතෙක්.
+- workaholics  👉  වැඩ කරන්න විතරයි කැමතියි.
+- chocoholic
+- shopaholic
+- would you like to cuppa   👉  තේ එකක් බොනවද ?
+
+
+- I am knacked 👉  මට මහන්සියි. 
 ##### don't use idioms on writing tasks
+ - my birthday is around the corner 👉 මගෙ birthday එක ලග ලගම එනවා.
+ - he is an eager beaver 👉 ඔහු හරි උනන්දුයි.
