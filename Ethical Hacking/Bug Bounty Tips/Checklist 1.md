@@ -1,0 +1,26 @@
+## This Is What Should I do when I hunt:
+- [ ] Find Subdomains 
+- [ ] Check  <span style="color:#ffff00">CNAME</span>  Records of Those Subdomains, Check for <span style="color:#27d371">SubD Takeover</span>. Use WaybackUrls for URLS 
+- [ ] Use <span style="color:#27d371">MassScan</span> For Port Scanning 
+- [ ] Do <span style="color:#27d371">Github</span> Recon 
+## On WebApp 
+- [ ] Check For <span style="color:#ee56f0">CORS Misconfiguration </span>
+- [ ] Check For Email Header Injection On Reset Password Function. 
+- [ ] Check For <span style="color:#ffff00">SMTP</span> and<span style="color:#ffff00"> HOST Header Injection</span>. 
+- [ ] Check For <span style="color:#27d371">IFRAME</span> (For Clickjacking) 
+- [ ] Check For <span style="color:#ee56f0">Improper Access Control</span> and <span style="color:#ee56f0">Parameter Tampering</span>. 
+- [ ] Check Burp History for finding endpoint. 
+- [ ] Use <span style="color:#245fd6">Arjun</span> for finding hidden endpoints. 
+- [ ] Check For <span style="color:#ffff00">CSRF</span> 
+- [ ] Check For <span style="color:#ffff00">SSRF</span> Parameters. 
+- [ ] Check For <span style="color:#ffff00">XSS</span> and <span style="color:#ffff00">SSTI</span>. 
+- [ ] Check Cryptography in Reset Password Token. 
+- [ ] Check For Unicode Injection In Email Parameter 
+- [ ] Check For Bypassing Rate Limit Headers: X-Originating-IP: IP X-Forwarded-For: IP X-Remote-IP: IP X-Remote-Addr: IP X-Client-IP: IP X-Forwarded-Host: IP 
+- [ ] Directory Brute Force 
+- [ ] Check For HTTP Request <span style="color:#d95e5e">Smuggling</span>.
+- [ ] Check For Open Redirect Through WaybackURLs 
+- [ ] Check For<span style="color:#d95e5e"> Social-Signon </span>Bypass 
+- [ ] Check For State Parameter in Social Sign-In & Check Whether its possible to cause DoS using multiple cookies injection. 
+- [ ] File-Upload ,<span style="color:#ffff00">CSRF</span>, <span style="color:#ffff00">XSS</span>, <span style="color:#ffff00">SSRF</span>, <span style="color:#ffff00">RCE</span>, <span style="color:#ffff00">LFI</span>, <span style="color:#ffff00">XXE</span> 
+- [ ] Buffer Overflow

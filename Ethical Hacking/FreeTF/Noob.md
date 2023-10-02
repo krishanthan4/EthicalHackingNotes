@@ -55,7 +55,7 @@ Take the diagram below as an example, Alice, Bob and Jim have formed their netwo
 කලින් අපි network ගැන කතා කරා.දැන් බලමු internet කියන්නෙ මොකක්ද කියලා.
 
 <img src='https://static1.moviewebimages.com/wordpress/wp-content/uploads/article/nYFjj012yVE86ZzyXCP7clov3PA5AP.jpg'/>
-        meme time : (internet එක කොච්චර ලොකුද ඇහුවම යාලුවා කියන විදිහ)
+        
 
 The Internet is one giant network that consists of many, many small networks within itself. Using our example from the previous task, let's now imagine that Alice made some new friends named Zayn and Toby that she wants to introduce to Bob and Jim. The problem is that Alice is the only person who speaks the same language as Zayn and Toby. So Alice will have to be the messenger!
 
